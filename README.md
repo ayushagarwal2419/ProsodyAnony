@@ -1,4 +1,15 @@
 # ProsodyAnony
+
+	α	1	1.5	2	2.5
+Speaker 1	Utt1	S11	S13	S15	S17
+	Utt2	S12	S14	S16	S18
+Speaker 2	Utt1	S21	S23	S25	S27
+	Utt2	S22	S24	S26	S28
+Speaker 3	Utt1	S31	S33	S35	S37
+	Utt2	S32	S34	S36	S38
+Speaker 4	Utt1	S41	S43	S45	S47
+	Utt2	S42	S44	S46	S48
+
 The subjective study was done to show that it is difficult for the humans to identify the original and anonymized speaker. 10 listeners were taken and the study was done on the TIMIT dataset. 2 speech utterance of different linguistic content (SA1.wav and SA2.wav) of 4 speakers from the TIMIT dataset were taken. Both the utterance of every speaker were prosody modified with α = 1, 1.5, 2, 2.5. Therefore, we have a set of 2×4×4 = 32 speech utterances. For both the study, at a time two speech utterances were played and listeners were asked to give the score according to the criteria of the study 1 or study 2.
 
 ## Study 1
